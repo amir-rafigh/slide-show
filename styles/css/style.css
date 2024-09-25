@@ -47,6 +47,9 @@ body {
   top: 38%;
   right: 5%;
 }
+.button .back:hover, .button .next:hover {
+  background-color: black;
+}
 
 .container-dots {
   display: flex;

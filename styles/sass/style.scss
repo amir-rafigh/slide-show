@@ -51,7 +51,11 @@ body{
         top: 38%;
         right: 5%;
     }
+    .back:hover , .next:hover{
+        background-color: black;
+    }
 }
+
 
 
 .container-dots{
